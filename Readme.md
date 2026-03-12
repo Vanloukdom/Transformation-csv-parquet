@@ -11,7 +11,7 @@
 4. Exécuter le job Glue et vérifier que le fichier parquet est créé dans le bucket S3.
 5. Nettoyer les ressources créées pour éviter des coûts inutiles.
 
-#**Architecture du projet**
+# **Architecture du projet**
 
 ![architecture](./img/architecture%20lambda+glue.svg)
 
