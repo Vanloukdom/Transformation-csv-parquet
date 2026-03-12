@@ -7,7 +7,9 @@
 - Un compte AWS
 - Terraform installé sur votre machine
 - AWS CLI installé et configuré
+
 Étapes:
+
 1. Créer un bucket S3 pour stocker le fichier csv et le fichier parquet.
 2. Créer une table Glue pour le fichier csv.
 3. Créer un job Glue pour transformer le fichier csv en parquet.
