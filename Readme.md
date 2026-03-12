@@ -1,6 +1,9 @@
-**Projet**: Transformation d'un fichier csv en parquet
-**Description**: Ce projet a pour objectif de transformer un fichier csv en parquet en utilisant Terraform et AWS Glue. Nous allons créer une infrastructure sur AWS pour effectuer cette transformation de manière automatisée.
-**Prérequis**:
+# **Projet**: **Transformation d'un fichier csv en parquet**
+
+## **Description**: Ce projet a pour objectif de transformer un fichier csv en parquet en utilisant Terraform et AWS Glue. Nous allons créer une infrastructure sur AWS pour effectuer cette transformation de manière automatisée.
+
+### **Prérequis**:
+
 - Un compte AWS
 - Terraform installé sur votre machine
 - AWS CLI installé et configuré
